@@ -1,0 +1,19 @@
+.videoSidebar {
+    position: absolute;
+    top: 50%;
+    right: 14px;
+    color: white;
+}
+
+.videoSidebar__options {
+    padding: 20px;
+    text-align: center;    
+}
+
+.videoSidebar__options p {
+    cursor: pointer;
+}
+
+.videoSidebar__icon {
+    cursor: pointer;
+}
